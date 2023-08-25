@@ -5,7 +5,7 @@ const nodemailer = require("nodemailer");
 const jwt = require("jsonwebtoken");
 require("dotenv").config();
 const { UserModel } = require("../models/user.model");
-const { sentHistory, SentHistory } = require("../models/history.model");
+const { SentHistory } = require("../models/history.model");
 
 const userRouter = express.Router();
 

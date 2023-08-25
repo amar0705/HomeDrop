@@ -1,3 +1,7 @@
+# files
+.env
+.gitignore
+
 # package directories
 node_modules
 jspm_packages
@@ -5,6 +9,6 @@ jspm_packages
 # Serverless directories
 .serverless
 
-.env
-.gitignore
+
+
 

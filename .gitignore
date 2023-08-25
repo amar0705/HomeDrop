@@ -1,8 +1,10 @@
 # package directories
 node_modules
 jspm_packages
-.env
-.gitignore
 
 # Serverless directories
 .serverless
+
+.env
+.gitignore
+
